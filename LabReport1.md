@@ -1,6 +1,7 @@
 <h1>Lab Report 1</h1>
 <p>by Guan Hao Huang Chen</p>
-<p>cd command lines:</p>
+<b>cd command lines:</b>b>
+<br/>
 1.
 <br/>
 <p>Screen Shot:</p>
@@ -20,3 +21,6 @@
 <br/>
 <p>The working directory was home/</p>
 <p>I got the output as "bash: cd: lecture1/messages/en-us.txt: Not a directory" and this is because I use a file as an argument, cd is for directory. The output is an error because we want to change the current directory to the argument directory but our argument is not a directory so it shows error output telling us is not able to change.</p>
+<b>ls command lines:</b>
+<br/>
+1. 
