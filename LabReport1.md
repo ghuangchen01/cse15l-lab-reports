@@ -6,4 +6,4 @@
 <br/>
 1.
 <br/>
-![cd with no arguments](cd1.png)
+![Image](cd1.png)
