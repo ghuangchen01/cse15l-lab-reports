@@ -46,3 +46,26 @@
 <br/>
 <p>The working directory was home/</p>
 <p>The result was lecture1/messages/en-us.txt and the reason we get this result is because en-us.txt is not an directory so the computer can't list anything inside it. This shoule be an error because the result is not listing.</p>
+<b>cat command lines:</b>
+1. 
+<br/>
+<p>Screen Shot:</p>
+![Image](cat1.png)
+<br/>
+<p>The working directory was home/</p>
+<p>The result was empty but no next line, I have to use control c to stop it, I think the reason is because cat with no argument would cause nothing to print and it is an error so it would be empty.</p>
+2. 
+<br/>
+<p>Screen Shot:</p>
+![Image](cat2.png)
+<br/>
+<p>The working directory was home/</p>
+<p>The result was lecture1 Is a directory. And this is because the argument we use for the cat command is directory. This is an error because cat should print out the information inside a file and it didn't print out anything (because we use directory as argument.)</p>
+3. 
+<br/>
+<p>Screen Shot:</p>
+![Image](cat3.png)
+<br/>
+<p>The working directory was home/</p>
+<p>The result was Hello World! because the information inside the file en-us.txt was Hello World!. This is not an error because this is what we expected to get from the command cat which is print the information of the argument.</p>
+
