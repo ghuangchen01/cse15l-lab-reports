@@ -32,14 +32,14 @@
 <br/>
 <p>The working directory was home/</p>
 <p>The result was lecture1 and the reason we get this result is because in the home directory there were only one directory or file called lecture1. This was not an error because list the items in the working directory was what we expected.</p>
-2. 
+2.
 <br/>
 <p>Screen Shot:</p>
 ![Image](ls2.png)
 <br/>
 <p>The working directory was home/</p>
 <p>The result was Hello.class Hello.java messages README and the reason we get this result is because in the lecture1 directory there were only one directory or file called lecture1. This was not an error because list the items in the working directory was what we expected.</p>
-3. 
+3.
 <br/>
 <p>Screen Shot:</p>
 ![Image](ls3.png)
@@ -54,14 +54,14 @@
 <br/>
 <p>The working directory was home/</p>
 <p>The result was empty but no next line, I have to use control c to stop it, I think the reason is because cat with no argument would cause nothing to print and it is an error so it would be empty.</p>
-2. 
+2.
 <br/>
 <p>Screen Shot:</p>
 ![Image](cat2.png)
 <br/>
 <p>The working directory was home/</p>
 <p>The result was lecture1 Is a directory. And this is because the argument we use for the cat command is directory. This is an error because cat should print out the information inside a file and it didn't print out anything (because we use directory as argument.)</p>
-3. 
+3.
 <br/>
 <p>Screen Shot:</p>
 ![Image](cat3.png)
