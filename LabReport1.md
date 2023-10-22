@@ -8,7 +8,7 @@
 ![Image](cd1.png)
 <br/>
 <p>The working directory was home/</p>
-<p>There were no result so I didn't take a screen shot to it, the reason it is no result is because cd command means change directory but we didn't specify which directory we want to change to so there is no result.</p>
+<p>There were no result as the screen shot showed, the next line is [user@sahara~], the reason it is no result is because cd command means change directory but we didn't specify which directory we want to change to so there is no result.</p>
 2.
 <br/>
 <p>Screen Shot:</p>
@@ -38,14 +38,14 @@
 ![Image](ls2.png)
 <br/>
 <p>The working directory was home/</p>
-<p>The result was Hello.class Hello.java messages README and the reason we get this result is because in the lecture1 directory there were only one directory or file called lecture1. This was not an error because list the items in the working directory was what we expected.</p>
+<p>The result was Hello.class Hello.java messages README and the reason we get this result is because in the lecture1 directory there were this files or directories inside and ls is to list the directories or files inside. This was not an error because list the items in the working directory was what we expected.</p>
 3.
 <br/>
 <p>Screen Shot:</p>
 ![Image](ls3.png)
 <br/>
 <p>The working directory was home/</p>
-<p>The result was lecture1/messages/en-us.txt and the reason we get this result is because en-us.txt is not an directory so the computer can't list anything inside it. This shoule be an error because the result is not listing.</p>
+<p>The result was lecture1/messages/en-us.txt and the reason we get this result is because en-us.txt is not an directory so the computer can't list anything inside it. This should be an error because the result is not listing.</p>
 <b>cat command lines:</b>
 1. 
 <br/>
