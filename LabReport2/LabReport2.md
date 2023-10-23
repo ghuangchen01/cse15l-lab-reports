@@ -26,10 +26,16 @@
 <p>The given request url path is with /add-message with query s=world. The code first check if the path is / and it is not so it go to else. The code checks if the path contains /add-messageand it does. So the code proceeds inside this block and splits the query using = sign, and safe result into array parameters with value {"s", "world"}. It checks if parameters[0] = "s", and it does, so parameters[1] would update to String st which now st is "1. hello\n2. world\n" and num increases to 3 for the next term needed.</p>
 <b>Part 2:</b>
 <b>Private key:</b>
+<br/>
 ![Image](private.png)
+<br/>
 <b>Public key:</b>
+<br/>
 ![Image](public.png)
+<br/>
 <b>Login to ieng6 without password</b>
+<br/>
 ![Image](ieng6.png)
+<br/>
 <b>Part 3:</b>
 <p>I think from the lab in week 2 and 3, I learn about ieng6 which is really interesting to me. I haven't seen anything like this before, and from these labs I figure out how important it is to know how to use the command lines and terminal.</p>
